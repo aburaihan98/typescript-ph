@@ -13,3 +13,8 @@ let y = null;
 let a;
 a = "a";
 console.log(a);
+// array
+let arrStr = ["a", "b", "c"];
+let arrNmb = [1, 2, 3];
+// tuple
+let arrAll = ["a", 1, true];

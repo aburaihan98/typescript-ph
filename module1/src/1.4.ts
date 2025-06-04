@@ -23,6 +23,5 @@ let arrStr: string[] = ["a", "b", "c"];
 
 let arrNmb: number[] = [1, 2, 3];
 
+// tuple
 let arrAll: [string, number, boolean] = ["a", 1, true];
-
-// object
